@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Network independent site template. All of the dependencies in `static` folder
 
 # Project Goals
 
